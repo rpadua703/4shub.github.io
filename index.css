@@ -1,0 +1,68 @@
+
+  body, html{
+    margin:0;
+    padding:0;
+    height: 100%;
+    width: 100%;
+  }
+
+  body{
+     background: #fff;
+     background-image: url(background.jpg);
+     background-repeat: no-repeat;
+     background-size: cover;
+
+     font-family: arial;
+
+  }
+
+  .content h4{
+
+  }
+
+  .project{
+    background-color: purple;
+    color:white;
+  }
+
+  #content-about-me{
+    background-color: purple;
+    color:white;
+  }
+
+  p{
+    line-height: 1.5x;
+    margin:0px;
+  }
+
+  .center-content{
+    width: 500px;
+    margin : 150px, auto 0px;
+    padding: 0px 0px 20px 0px;
+    height:auto;
+    border-radius: 5px;
+    background-color: #fff;
+    position: relative;
+  }
+
+  .profle-picture{
+    width: 150px;
+    position: absolute;
+    top: -75px;
+    border-radius: 100%;
+    left: 50%;
+    margin-left: -75px;
+    height: 150px;
+  }
+
+  #content-header p{
+    margin-top: 5px;
+    margin-bottom: 0px;
+    color: #7a8a8a;
+  }
+  .list-link{
+    display:inline-block;
+    padding: 5px,20px;
+    background: #;
+
+  }
